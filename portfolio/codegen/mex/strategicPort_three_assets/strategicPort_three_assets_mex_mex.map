@@ -1,0 +1,25 @@
+MEX {
+	global:
+		mexFunction;
+		emlrtMexFcnProperties;
+		strategicPort_three_assets;
+		c_emlrt_marshallIn;
+		c_feval;
+		d_emlrt_marshallIn;
+		j_emlrt_marshallIn;
+		emxEnsureCapacity;
+		emxFree_int32_T;
+		emxFree_ptrdiff_t;
+		emxFree_real_T;
+		emxInit_int32_T;
+		emxInit_int32_T1;
+		emxInit_ptrdiff_t;
+		emxInit_real_T;
+		emxInit_real_T1;
+		emxInit_real_T2;
+		strategicPort_three_assets_initialize;
+		strategicPort_three_assets_terminate;
+		strategicPort_three_assets_atexit;
+	local:
+		*;
+};
